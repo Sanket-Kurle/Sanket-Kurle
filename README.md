@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Sanket Kurle — Full-stack Software Engineer" />
+<img src="./assets/profile-header.png" width="100%" alt="Sanket Kurle - Full-stack Software Engineer" />
 
 <br />
 
@@ -14,22 +14,33 @@
 
 I’m a **Software Development Engineer at RigelX Infotech** in Mumbai. I build production applications across frontend, backend, cloud, mobile, real-time systems, and interactive game experiences.
 
-I enjoy turning an ambiguous real-world problem into software that feels clear, fast, and dependable—from the first interface to the database, deployment, and production fixes.
+I enjoy turning an ambiguous real-world problem into software that feels clear, fast, and dependable - from the first interface to the database, deployment, and production fixes.
 
 > **The current move:** building useful products, learning from real users, and leaving every codebase stronger than I found it.
 
-## Currently building
+## Currently developing at RigelX
 
-- **Nash Arena** — an animated game-theory learning and multiplayer platform using Next.js, ASP.NET Core, SignalR, PostgreSQL, C#, and Unity WebGL.
-- Property search, listing, location, responsive UI, and SEO workflows for [ONDOT](https://ondotproperty.com/).
-- Warehouse-management workflows covering multi-location inventory, inward/outward movement, batch and damage tracking, billing, and role-based access.
-- Open-source improvements for the [Lichess mobile application](https://github.com/lichess-org/mobile/pull/2224).
+### RXForms
+
+An intelligent dynamic form builder and workflow-automation product for teams that have outgrown spreadsheets. My work covers React and TypeScript interfaces, flexible data-capture experiences, and workflow-focused product development.
+
+### RX Ware
+
+A warehouse-management platform supporting multi-location inventory, inward and outward movement, batch and damage tracking, billing, tables, date-driven workflows, localisation, and role-based operations.
+
+`React 19` · `TypeScript` · `Vite` · `Material UI` · `TanStack Table` · `i18next` · `Framer Motion` · `GSAP` · `Vitest` · `AWS CodeBuild`
+
+### [ONDOT](https://ondotproperty.com/)
+
+A property-discovery platform covering resale, rental, and new-project listings. The current web repository is frontend and static-site focused; I work on its search, location and listing flows, responsive UI, technical SEO, deployment, catalog automation, and the ONDOT backend now under development.
+
+`Next.js 16` · `React 19` · `TypeScript` · `Python automation` · `S3` · `CloudFront` · `SEO validation` · `Backend APIs in development`
 
 ## Core technology
 
 <div align="center">
 
-![Core languages and frameworks](https://skillicons.dev/icons?i=cs,dotnet,unity,ts,js,react,nextjs,nodejs,python,django,flutter,dart)
+![Core languages and frameworks](https://skillicons.dev/icons?i=cs,dotnet,unity,ts,js,react,nextjs,nodejs,python,flutter,dart,nestjs)
 
 ![Data cloud and tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,aws,azure,docker,git,github,vite,tailwind)
 
@@ -47,7 +58,7 @@ I enjoy turning an ambiguous real-world problem into software that feels clear, 
 <summary><strong>Backend, real-time &amp; data</strong></summary>
 <br />
 
-`C#` · `.NET` · `ASP.NET Core` · `SignalR` · `Entity Framework Core` · `Node.js` · `Express` · `NestJS` · `Django REST Framework` · `PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Prisma`
+`C#` · `.NET` · `ASP.NET Core` · `SignalR` · `Entity Framework Core` · `Node.js` · `Express` · `NestJS` · `PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Prisma`
 
 </details>
 
@@ -55,15 +66,15 @@ I enjoy turning an ambiguous real-world problem into software that feels clear, 
 <summary><strong>Unity, mobile &amp; game development</strong></summary>
 <br />
 
-`Unity` · `Unity C#` · `Unity 2D` · `URP 2D` · `Unity WebGL` · `JavaScript–Unity bridges` · `Game-state management` · `Gameplay rules` · `Flutter` · `Dart` · `Riverpod`
+`Unity` · `Unity C#` · `Unity 2D` · `URP 2D` · `Unity WebGL` · `JavaScript-Unity bridges` · `Game-state management` · `Gameplay rules` · `Flutter` · `Dart` · `Riverpod`
 
 </details>
 
 <details>
-<summary><strong>AI, machine learning &amp; blockchain</strong></summary>
+<summary><strong>AI &amp; machine learning</strong></summary>
 <br />
 
-`Machine Learning` · `Deep Learning` · `CNN` · `LSTM` · `BERT` · `OpenCV` · `DeepFace` · `RAG` · `LangChain` · `LangGraph` · `Solidity` · `Hardhat` · `ethers.js`
+`Machine Learning` · `Deep Learning` · `CNN` · `LSTM` · `BERT` · `OpenCV` · `DeepFace` · `RAG` · `LangChain` · `LangGraph`
 
 </details>
 
@@ -75,14 +86,12 @@ I enjoy turning an ambiguous real-world problem into software that feels clear, 
 
 </details>
 
-## Featured work
+## Selected projects
 
-| Project | What I built | Technology |
+| Project | What I’m building | Technology |
 | :--- | :--- | :--- |
-| **Nash Arena** · In development | A visual game-theory learning platform with animated concept maps, Unity lessons, accounts, and real-time multiplayer foundations. | Next.js · C# · ASP.NET Core · SignalR · PostgreSQL · Unity |
-| **[Mind-Med](https://github.com/Sanket-Kurle/Mind-Med)** · **[Live ↗](https://mind-med.vercel.app)** | A mental-health platform combining questionnaire, audio, facial-expression, and text-analysis workflows. | React · Django · PostgreSQL · Supabase · CNN/LSTM · BERT |
-| **[TrustLedger](https://github.com/Sanket-Kurle/trustLedger)** | A transparent fundraising platform with campaign workflows and blockchain-backed donation records. | Next.js · Node.js · Prisma · Solidity · Hardhat · ethers.js |
-| **[Lichess Mobile](https://github.com/lichess-org/mobile/pull/2224)** | Open-source contributions within the official Lichess Flutter application. | Flutter · Dart · Open source |
+| **Game Theory** · In development | A visual learning and multiplayer platform with an animated concept tree, interactive lessons, Unity WebGL experiences, accounts, and real-time game foundations. | Next.js · React · C# · .NET 10 · ASP.NET Core · SignalR · PostgreSQL · Unity · Playwright · xUnit |
+| **Sports Group Management** · In development | A mobile coordination product replacing WhatsApp and spreadsheet workflows with session RSVPs, attendance, and a transaction-based shared-expense ledger. The first API prototype used NestJS; the backend is moving to ASP.NET Core. | Flutter · Riverpod · Firebase · PostgreSQL · NestJS prototype · ASP.NET Core planned |
 
 ## Engineering impact
 
@@ -91,26 +100,29 @@ I enjoy turning an ambiguous real-world problem into software that feels clear, 
 - Built account systems, Google authentication, database migrations, background workers, and multiplayer integration tests in ASP.NET Core.
 - Created WebGL-ready Unity lessons with C# gameplay rules and JavaScript interoperability.
 - Mentored full-stack interns and led a **Smart India Hackathon** team for two years.
-- Wrote about practical React architecture for the [RigelX engineering blog](https://www.rigelx.io/blog/).
 
-## Education &amp; credentials
+## Education &amp; selected credentials
 
-- **B.E. Information Technology**, Honours in Artificial Intelligence and Machine Learning — University of Mumbai, 2026.
-- Google for Developers — Android Developer Virtual Internship.
-- AWS Academy — Data Engineering and AI/ML Virtual Internships.
-- NPTEL — Introduction to Automata, Languages and Computation.
-- NPTEL — The Joy of Computing Using Python.
+- **B.E. Information Technology**, Honours in Artificial Intelligence and Machine Learning - University of Mumbai, 2026.
+- **Zscaler Academy** - Zero Trust Associate (ZTCA), valid through February 2029.
+- **AWS Academy** - AI/ML Virtual Internship and Data Engineering Virtual Internship.
+- **Google for Developers** - Android Developer Virtual Internship.
+- **Oracle Academy** - Database Foundations.
+- **NPTEL / IIT Kharagpur** - Introduction to Automata, Languages and Computation.
+- **NPTEL / IIT Madras** - The Joy of Computing Using Python.
+- **HackerRank** - Problem Solving (Basic).
+- **Fortinet** - Network Security Associate Virtual Internship.
 
 <div align="center">
 
 ---
 
-<img src="./assets/pawn-mark.svg" width="58" alt="Sanket Kurle pawn mark" />
+<img src="./assets/pawn-built.png" width="72" alt="The custom pawn built for Sanket Kurle's chess portfolio" />
 
 ### Have an interesting problem to solve?
 
 [Email me](mailto:sanketkurle567@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/sanket-kurle/) · [Explore my repositories](https://github.com/Sanket-Kurle?tab=repositories)
 
-<sub>Full-stack engineering · cloud · mobile · game development · open source</sub>
+<sub>Full-stack engineering · cloud · mobile · game development</sub>
 
 </div>
