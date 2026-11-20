@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Sanket Kurle pawn mark</title>
+  <desc id="desc">An ivory chess pawn on a deep emerald field with a vermilion accent.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07513F"/>
+      <stop offset="1" stop-color="#032B23"/>
+    </linearGradient>
+    <linearGradient id="piece" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFF8EC"/>
+      <stop offset="1" stop-color="#D8BD92"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="160" rx="38" fill="url(#bg)"/>
+  <circle cx="80" cy="48" r="20" fill="url(#piece)"/>
+  <path d="M57 79C60 64 68 58 80 58S100 64 103 79L109 105H51Z" fill="url(#piece)"/>
+  <path d="M47 108H113L121 124H39Z" fill="#FFF8EC"/>
+  <path d="M34 129H126L132 141H28Z" fill="url(#piece)"/>
+  <circle cx="129" cy="30" r="7" fill="#E34222"/>
+</svg>

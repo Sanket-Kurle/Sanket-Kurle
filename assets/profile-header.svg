@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sanket Kurle — Full-stack Software Engineer</title>
+  <desc id="desc">An emerald and ivory portfolio banner with a modern pawn mark.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#043D30"/>
+      <stop offset="0.65" stop-color="#07513F"/>
+      <stop offset="1" stop-color="#032B23"/>
+    </linearGradient>
+    <linearGradient id="pawn" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFF8EC"/>
+      <stop offset="1" stop-color="#D8BD92"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFF8EC" stroke-opacity=".055"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#001B15" flood-opacity=".5"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <path d="M0 298C205 248 405 338 610 278C810 220 982 256 1200 189V360H0Z" fill="#021F19" opacity=".32"/>
+  <path d="M68 62H430" stroke="#D4AB61" stroke-width="2"/>
+  <circle cx="68" cy="62" r="5" fill="#E34222"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="68" y="105" fill="#D8BD92" font-size="16" font-weight="700" letter-spacing="4">SOFTWARE DEVELOPMENT ENGINEER</text>
+    <text x="68" y="184" fill="#FFF8EC" font-size="64" font-weight="800" letter-spacing="-2">Sanket Kurle</text>
+    <text x="70" y="231" fill="#F4E8D4" font-size="23" font-weight="500">Full-stack · Cloud · Mobile · Open source</text>
+    <text x="70" y="287" fill="#D8BD92" font-size="15" font-weight="700" letter-spacing="2">BUILDING THE NEXT MOVE · MUMBAI, INDIA</text>
+  </g>
+  <g transform="translate(890 44)" filter="url(#shadow)">
+    <circle cx="126" cy="122" r="121" fill="none" stroke="#D4AB61" stroke-opacity=".48"/>
+    <circle cx="126" cy="122" r="97" fill="#064E3B" stroke="#FFF8EC" stroke-opacity=".18"/>
+    <circle cx="126" cy="75" r="34" fill="url(#pawn)"/>
+    <path d="M87 123C91 98 106 91 126 91C146 91 161 98 165 123L175 166H77Z" fill="url(#pawn)"/>
+    <path d="M70 175H182L195 203H57Z" fill="#FFF8EC"/>
+    <path d="M50 210H202L217 240H35Z" fill="url(#pawn)"/>
+    <path d="M195 203H57" stroke="#D4AB61" stroke-width="4"/>
+  </g>
+  <circle cx="1128" cy="291" r="7" fill="#E34222"/>
+  <path d="M1048 291H1120" stroke="#D4AB61" stroke-width="2"/>
+</svg>
