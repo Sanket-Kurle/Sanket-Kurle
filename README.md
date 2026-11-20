@@ -30,7 +30,11 @@ An intelligent dynamic form builder and workflow-automation product for teams th
 
 A warehouse-management platform supporting multi-location inventory, inward and outward movement, batch and damage tracking, billing, tables, date-driven workflows, localisation, and role-based operations.
 
-`React 19` · `TypeScript` · `Vite` · `Material UI` · `TanStack Table` · `i18next` · `Framer Motion` · `GSAP` · `Vitest` · `AWS CodeBuild`
+I contribute across both the frontend and backend, completing assigned feature and bug-fix tickets within the existing product codebase and its automated test suites.
+
+**Frontend:** `React 19` · `TypeScript` · `Vite` · `Material UI` · `TanStack Table` · `i18next` · `Framer Motion` · `GSAP`
+
+**Backend:** `TypeScript` · `Node.js 22` · `Express 5` · `AWS Lambda` · `API Gateway` · `PostgreSQL / Supabase` · `Kysely` · `CIAM / JWT` · `S3` · `SQS` · `CloudWatch` · `Vitest`
 
 ### [ONDOT](https://ondotproperty.com/)
 
