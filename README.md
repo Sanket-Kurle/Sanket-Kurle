@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-header.png" width="100%" alt="Sanket Kurle - Full-stack Software Engineer" />
+<img src="./assets/profile-header-v2.png" width="100%" alt="Sanket Kurle - Full-stack Software Engineer" />
 
 <br />
 
@@ -12,19 +12,21 @@
 
 ## About me
 
-I’m a **Software Development Engineer at RigelX Infotech** in Mumbai. I build production applications across frontend, backend, cloud, mobile, real-time systems, and interactive game experiences.
+I’m a **Software Development Engineer at [RigelX Infotech](https://www.rigelx.io/)** in Mumbai. I build production applications across frontend, backend, cloud, mobile, real-time systems, and interactive game experiences.
 
 I enjoy turning an ambiguous real-world problem into software that feels clear, fast, and dependable - from the first interface to the database, deployment, and production fixes.
 
 > **The current move:** building useful products, learning from real users, and leaving every codebase stronger than I found it.
 
+**Early-stage startup experience:** I help build products from the ground up, working through ambiguity and taking ownership from product discovery and architecture to implementation, deployment, and iteration from real customer feedback.
+
 ## Currently developing at RigelX
 
-### RXForms
+### [RXForms](https://app.rxform-dev.rigelx.io/)
 
 An intelligent dynamic form builder and workflow-automation product for teams that have outgrown spreadsheets. My work covers React and TypeScript interfaces, flexible data-capture experiences, and workflow-focused product development.
 
-### RX Ware
+### [RX Ware](https://stg-wms.rigelx.io/)
 
 A warehouse-management platform supporting multi-location inventory, inward and outward movement, batch and damage tracking, billing, tables, date-driven workflows, localisation, and role-based operations.
 
@@ -96,6 +98,7 @@ A property-discovery platform covering resale, rental, and new-project listings.
 ## Engineering impact
 
 - Delivered **5+ production web applications** across property, warehouse, and business domains.
+- Helped take early-stage products from idea to production while working directly across product, engineering, deployment, and customer-driven iteration.
 - Work across the complete delivery path: requirements, UI, APIs, data, deployment, testing, and production debugging.
 - Built account systems, Google authentication, database migrations, background workers, and multiplayer integration tests in ASP.NET Core.
 - Created WebGL-ready Unity lessons with C# gameplay rules and JavaScript interoperability.
