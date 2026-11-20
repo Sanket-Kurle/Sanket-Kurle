@@ -22,9 +22,11 @@ I enjoy turning an ambiguous real-world problem into software that feels clear, 
 
 ## Currently developing at RigelX
 
-### [RXForms](https://app.rxform-dev.rigelx.io/)
+### [RXFORM](https://app.rxform-dev.rigelx.io/)
 
-An intelligent dynamic form builder and workflow-automation product for teams that have outgrown spreadsheets. My work covers React and TypeScript interfaces, flexible data-capture experiences, and workflow-focused product development.
+The inbox behind a website's existing contact and enquiry forms, built for small businesses that need every customer message to arrive reliably without running their own server. RXFORM saves each submission before delivery, sends alerts only to confirmed recipients, and provides per-form inboxes with search, spam protection, deletion and CSV export.
+
+I contribute to the React and TypeScript product experience across onboarding, form setup, recipient management and submission workflows as the first release moves through final testing toward launch.
 
 ### [RX Ware](https://stg-wms.rigelx.io/)
 
