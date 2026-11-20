@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-header-v2.png" width="100%" alt="Sanket Kurle - Full-stack Software Engineer" />
+<img src="./assets/profile-header-v3.png" width="100%" alt="Sanket Kurle - Full-stack Software Engineer focused on product engineering, applied AI/ML, and game systems" />
 
 <br />
 
@@ -12,7 +12,7 @@
 
 ## About me
 
-I’m a **Software Development Engineer at [RigelX Infotech](https://www.rigelx.io/)** in Mumbai. I build production applications across frontend, backend, cloud, mobile, real-time systems, and interactive game experiences.
+I’m a **Software Development Engineer at [RigelX Infotech](https://www.rigelx.io/)** in Mumbai. I build production applications across frontend, backend, databases, mobile, real-time systems, and interactive game experiences, with a growing focus on applied AI/ML.
 
 I enjoy turning an ambiguous real-world problem into software that feels clear, fast, and dependable - from the first interface to the database, deployment, and production fixes.
 
@@ -48,7 +48,7 @@ A property-discovery platform covering resale, rental, and new-project listings.
 
 ![Core languages and frameworks](https://skillicons.dev/icons?i=cs,dotnet,unity,ts,js,react,nextjs,nodejs,python,flutter,dart,nestjs)
 
-![Data cloud and tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,aws,azure,docker,git,github,vite,tailwind)
+![Data and engineering tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,docker,git,github,vite,tailwind)
 
 </div>
 
@@ -77,7 +77,7 @@ A property-discovery platform covering resale, rental, and new-project listings.
 </details>
 
 <details>
-<summary><strong>AI &amp; machine learning</strong></summary>
+<summary><strong>Applied AI &amp; machine learning</strong></summary>
 <br />
 
 `Machine Learning` · `Deep Learning` · `CNN` · `LSTM` · `BERT` · `OpenCV` · `DeepFace` · `RAG` · `LangChain` · `LangGraph`
@@ -85,10 +85,12 @@ A property-discovery platform covering resale, rental, and new-project listings.
 </details>
 
 <details>
-<summary><strong>Cloud, testing &amp; engineering tools</strong></summary>
+<summary><strong>Testing, infrastructure exposure &amp; engineering tools</strong></summary>
 <br />
 
-`AWS S3` · `CloudFront` · `ElastiCache` · `Azure` · `Docker` · `Playwright` · `xUnit` · `Vitest` · `Git` · `GitHub` · `Bitbucket` · `Jira` · `Blender`
+`Playwright` · `xUnit` · `Vitest` · `Docker` · `Git` · `GitHub` · `Bitbucket` · `Jira` · `Blender`
+
+Working exposure through product delivery: `AWS Lambda` · `API Gateway` · `S3` · `SQS` · `CloudWatch` · `CloudFront` · `Azure fundamentals`
 
 </details>
 
@@ -130,6 +132,6 @@ A property-discovery platform covering resale, rental, and new-project listings.
 
 [Email me](mailto:sanketkurle567@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/sanket-kurle/) · [Explore my repositories](https://github.com/Sanket-Kurle?tab=repositories)
 
-<sub>Full-stack engineering · cloud · mobile · game development</sub>
+<sub>Full-stack product engineering · applied AI/ML · mobile · game development</sub>
 
 </div>
