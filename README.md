@@ -38,9 +38,9 @@ I contribute across both the frontend and backend, completing assigned feature a
 
 ### [ONDOT](https://ondotproperty.com/)
 
-A property-discovery platform covering resale, rental, and new-project listings. The current web repository is frontend and static-site focused; I work on its search, location and listing flows, responsive UI, technical SEO, deployment, catalog automation, and the ONDOT backend now under development.
+A property-discovery platform covering resale, rental, and new-project listings. The current web repository is frontend and static-site focused; I work on its search, location and listing flows, responsive UI, technical SEO, deployment, and catalog automation. I am also actively designing and implementing ONDOT's backend APIs and database layer for property-submission, validation, persistence, and media workflows.
 
-`Next.js 16` · `React 19` · `TypeScript` · `Python automation` · `S3` · `CloudFront` · `SEO validation` · `Backend APIs in development`
+`Next.js 16` · `React 19` · `TypeScript` · `Python automation` · `S3` · `CloudFront` · `SEO validation` · `Backend APIs and database layer in development`
 
 ## Core technology
 
