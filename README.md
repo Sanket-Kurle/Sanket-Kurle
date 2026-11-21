@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-kurle/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-E34222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketkurle567@gmail.com)
 [![Repositories](https://img.shields.io/badge/GitHub-Explore_Work-064E3B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanket-Kurle?tab=repositories)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-C49A4A?style=for-the-badge&logo=readme&logoColor=white)](./assets/Sanket_Kurle_Resume.pdf)
 
 </div>
 
