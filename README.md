@@ -103,6 +103,14 @@ Working exposure through product delivery: `AWS Lambda` · `API Gateway` · `S3`
 | **Game Theory** · In development | A visual learning and multiplayer platform with an animated concept tree, interactive lessons, Unity WebGL experiences, accounts, and real-time game foundations. | Next.js · React · C# · .NET 10 · ASP.NET Core · SignalR · PostgreSQL · Unity · Playwright · xUnit |
 | **Sports Group Management** · In development | A mobile coordination product replacing WhatsApp and spreadsheet workflows with session RSVPs, attendance, and a transaction-based shared-expense ledger. The first API prototype used NestJS; the backend is moving to ASP.NET Core. | Flutter · Riverpod · Firebase · PostgreSQL · NestJS prototype · ASP.NET Core planned |
 
+## Open-source contribution
+
+### [Lichess Mobile - tablet clock orientation](https://github.com/lichess-org/mobile/pull/2224)
+
+Fixed clock misorientation on tablets in the Flutter-based Lichess mobile application. The pull request was accepted and merged into `lichess-org/mobile:main` on October 1, 2025.
+
+`Flutter` · `Dart` · `Responsive tablet UI` · `Open-source collaboration`
+
 ## Engineering impact
 
 - Delivered **5+ production web applications** across property, warehouse, and business domains.
